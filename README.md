@@ -1,4 +1,4 @@
-## Remedial Dasar Dasar Pemrograman
+## Remedial Dasar-Dasar Pemrograman
 
 ## Siapa yang mengikuti remedial
 Tugas ini bisa diikuti oleh siapapun yang ingin 
@@ -8,7 +8,7 @@ UAS, ataupun sekedar iseng.
 
 ## Soal
 Buatlah sebuah video dengan format Youtube short yang 
-membahas tentang konsep dasar dasar pemrograman 
+membahas tentang konsep dasar-dasar pemrograman 
 yang berkaitan dengan topik berikut:
 
 - Perulangan
