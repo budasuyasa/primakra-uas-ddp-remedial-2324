@@ -6,6 +6,8 @@ menambahkan nilai oleh karena tidak memenuhi syarat
 kehadiran, tidak lulus UAS, ingin meningkatkan nilai
 UAS, ataupun sekedar iseng.
 
+[Klik di sini untuk melihat nilai UAS](https://docs.google.com/spreadsheets/d/1r-D6oJd8ZMaciS5Hb0HrDweSqmtWBtWU57rfrcDn7RM/edit#gid=990472529)
+
 ## Soal
 Buatlah sebuah video dengan format Youtube short yang 
 membahas tentang konsep dasar-dasar pemrograman 
@@ -50,6 +52,8 @@ pimpinan, dan lembaga Primakara University.
 - 250 views: 25%
 - Lebih kecil dari 250 views: 20%
 - Penilaian akan dilakukan pada 13 Januari 2024
+- Kumpulkan URL video dengan membuat issue baru pada
+repositori ini
 
 "If you don't like your current situation, change it. 
 You're not a tree." - Jim Rohn (One Piece)
